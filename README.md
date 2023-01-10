@@ -1,4 +1,4 @@
-These files are all mine (except gilgamesh and declaration of independance are used to test.
+These files are all mine (except gilgamesh and declaration of independance are used to test)
 
 Text generator takes 3 arguments:
 ./text.exe <filename> <number of words> <key length>
